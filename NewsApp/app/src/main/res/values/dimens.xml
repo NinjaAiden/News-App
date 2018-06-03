@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="section_text_size">24sp</dimen>
+    <dimen name="title_text_size">16sp</dimen>
+    <dimen name="date_text_size">8sp</dimen>
+    <dimen name="padH">16dp</dimen>
+    <dimen name="padV">8dp</dimen>
+    <dimen name="padB">8dp</dimen>
+</resources>
